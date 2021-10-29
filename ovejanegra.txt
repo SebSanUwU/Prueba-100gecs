@@ -1,0 +1,3 @@
+Hola soy la oveja negra de este archivo.
+
+Prueba de rm --cached
